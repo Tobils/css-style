@@ -1,0 +1,39 @@
+/* body {
+    background-color: red;
+}
+ */
+
+.navbar {
+    /* background-color: blue; */
+    color: black;
+    padding: 20px;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+.nav-right {
+    display: inline;
+    margin-right: 600px;
+}
+
+.nav-left {
+    display: inline;
+    margin-right: 10px;
+    padding: 0%;
+}
+
+li {
+    margin: 10px;
+    background-color: aqua;
+    list-style-type: none;
+    display: inline;
+    padding: 15px 20px; /*atas, kanan, bawah, kiri [atas-bawah, kanan-kiri]*/
+    /* padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px; */
+    border-radius: 10%;
+}
+
